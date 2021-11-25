@@ -194,7 +194,7 @@ function About() {
         <img
           className="w-full"
           src="./images/logos/bitmoji.png"
-          alt="Vivek Patel Logo"
+          alt="Renny Langat Logo"
         />
       </div>
       <div className=" mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
@@ -487,7 +487,7 @@ function Projects() {
     // {
     //   name: "Problem Recommendation System",
     //   date: "Sep 2020",
-    //   link: "https://github.com/vivek9patel/Improve-Codeforces",
+    //   link: "https://github.com/rennylangat/Improve-Codeforces",
     //   description: [
     //     "Django web application to suggest practice problems from the areas in which the user struggles to get pass in code-forces.",
     //   ],
@@ -496,7 +496,7 @@ function Projects() {
     // {
     //   name: "Cleanliness Automation",
     //   date: "Dec 2019",
-    //   link: "https://github.com/vivek9patel/CPU-Scheduling-APP-React-Native",
+    //   link: "https://github.com/rennylangat/CPU-Scheduling-APP-React-Native",
     //   description: [
     //     "Developed Web Applications to automate Garbage collection and extraction systems for SSIP hackathon",
     //   ],
